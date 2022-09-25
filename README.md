@@ -27,7 +27,7 @@ Core Objectives and Future Plans of RecycloMade-
 * Project name:- RecycloMade
 * Repo:- https://github.com/itsdivgithub/RecycloMade-ETHOnline
 * Live URL with working integration:- http://recyclolottery.vercel.app/
-* Demo Video link:- 
+* Demo Video link:- https://drive.google.com/file/d/1SiErVCnaI3wCueOX_IwUgVQ9-_NzzuE8/view?usp=sharing
 * Person of contact: @itsdivgithub
 * Discord Id:- divweb#8073
 * ETHOnline registered account email address:- 10x.divminds@gmail.com
